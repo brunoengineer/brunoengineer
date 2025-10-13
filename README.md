@@ -8,19 +8,15 @@ I build reliable systems, open-source tooling, and share dev tips. Coffee-fueled
 
 About me
 - 🔭 I’m currently working on: AI applied to Test Case Generation
-- 🌱 I’m learning: Playwright
+- 🌱 I’m learning: Playwright | .NET/C# Jest
 - 👯 I’m open to: collaboration on OSS, mentoring, contract work
-
-Pinned projects
-- [QA Knowledge Repository](https://github.com/brunoengineer/qaConcepts/blob/main/README.md) — Whether you’re a QA engineer, developer, or simply passionate about building better software, dive in and explore clear explanations, practical examples, and insightful details
-- [AI Testing Assistant](https://github.com/brunoengineer/ManualTestGenerator/blob/main/README.md) — This project leverages Playwright to extract structured UI data from live web pages and automatically generate high-quality manual test cases in Markdown format
-- [AI Testing Assistant](https://github.com/brunoengineer/decideAutomate) — A React application that helps QA engineers decide whether a test should be automated or not based on a series of criteria questions
-
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoengineer&show_icons=true)
 
-Contact
-Prefer email: brunoqaengineer@gmail.com — or open an issue on one of my repos.
+| Project | What it does |
+|---|---|
+| [📚 **QA Knowledge Repo**](https://github.com/brunoengineer/qaConcepts) | Curated QA concepts, clear explanations, and practical examples for QA engineers and developers. |
+| [🤖 **Manual Test Generator**](https://github.com/brunoengineer/ManualTestGenerator) | Playwright-based extractor that generates high-quality manual test cases in Markdown from live UIs. |
+| [🧠 **Decide Automate**](https://github.com/brunoengineer/decideAutomate) | React app to help QA decide whether to automate a test using a criteria-driven checklist. |
 
-If you like my work, consider starring or sponsoring:
 - Sponsor: https://github.com/sponsors/brunoengineer
