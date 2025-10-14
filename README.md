@@ -1,4 +1,4 @@
-# Hi, I’m Bruno 👋 (replace with your name)
+# Hi, I’m Bruno 👋
 I build reliable systems, open-source tooling, and share dev tips. Coffee-fueled software engineer.  
 
 [![Website](https://img.shields.io/badge/website-brunoengineer-blue)](https://brunoengineer.github.io/portfolio_website/)
