@@ -1,5 +1,5 @@
 # Hi, I’m Bruno 👋
-I build reliable systems, open-source tooling, and share dev tips. Coffee-fueled software engineer.  
+I'm a professional Senior QA Engineer, and web developer as Hobby. I build systems and testing related tools.  
 
 [![Website](https://img.shields.io/badge/website-brunoengineer-blue)](https://brunoengineer.github.io/portfolio_website/)
 [![Insta](https://img.shields.io/badge/insta-@brunoengineer-1DA1F2)](https://www.instagram.com/bruno_peres_christino/)
