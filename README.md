@@ -11,7 +11,7 @@ About me
 - 🌱 I’m learning: Playwright | .NET/C# Jest
 - 👯 I’m open to: collaboration on OSS, mentoring, contract work
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brunoengineer&theme=default)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoengineer&show_icons=true)
 
 | Project | What it does |
 |---|---|
