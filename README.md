@@ -12,9 +12,6 @@ About me
 - 👯 I’m open to: collaboration on OSS, mentoring, contract work
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoengineer&show_icons=true)
-[![Profile Details](./assets/cards/profile-card.svg)](https://github.com/brunoengineer)
-[![Streak](./assets/cards/streak-card.svg)](https://github.com/brunoengineer)
-[![Top Langs](./assets/cards/top-langs-card.svg)](https://github.com/brunoengineer)
 
 | Project | What it does |
 |---|---|
