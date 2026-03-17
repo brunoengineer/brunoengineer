@@ -8,7 +8,7 @@ I'm a professional Senior QA Engineer, and web developer as Hobby. I build syste
 
 About me
 - 🔭 I’m currently working on: AI applied to Test Case Generation
-- 🌱 I’m learning: Playwright | .NET/C# Jest
+- 🌱 I’m learning: AI Agents for QA work | Advanced Level Test Automation Engineering v2.0 - ISTQB
 - 👯 I’m open to: collaboration on OSS, mentoring, contract work
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoengineer&show_icons=true)
