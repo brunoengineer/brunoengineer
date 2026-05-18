@@ -11,7 +11,7 @@ About me
 - 🌱 I’m learning: AI Agents for QA work | Advanced Level Test Automation Engineering v2.0 - ISTQB
 - 👯 I’m open to: collaboration on OSS, mentoring, contract work
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoengineer&show_icons=true)
+![Bruno's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=brunoengineer&theme=tokyonight)
 
 | Project | What it does |
 |---|---|
@@ -19,5 +19,7 @@ About me
 | [🤖 **Manual Test Generator**](https://github.com/brunoengineer/ManualTestGenerator) | Playwright-based extractor that generates high-quality manual test cases in Markdown from live UIs. |
 | [🧠 **Decide Automate**](https://github.com/brunoengineer/decideAutomate) | React app to help QA decide whether to automate a test using a criteria-driven checklist. |
 | [🤖 **QA AI Agent Hub**](https://github.com/brunoengineer/qa-agent-hub) | AI agents that help QA to improve productivity, creating Jira tickets and helping with coding tests. |
+
+![Top Languages](https://vani-stats.vercel.app/api?username=brunoengineer&theme=dark&max_langs=4)
 
 - Sponsor: https://github.com/sponsors/brunoengineer
