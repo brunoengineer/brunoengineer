@@ -16,9 +16,11 @@ About me
 | Project | What it does |
 |---|---|
 | [📚 **QA Knowledge Repo**](https://github.com/brunoengineer/qaConcepts) | Curated QA concepts, clear explanations, and practical examples for QA engineers and developers. |
-| [🤖 **Manual Test Generator**](https://github.com/brunoengineer/ManualTestGenerator) | Playwright-based extractor that generates high-quality manual test cases in Markdown from live UIs. |
-| [🧠 **Decide Automate**](https://github.com/brunoengineer/decideAutomate) | React app to help QA decide whether to automate a test using a criteria-driven checklist. |
 | [🤖 **QA AI Agent Hub**](https://github.com/brunoengineer/qa-agent-hub) | AI agents that help QA to improve productivity, creating Jira tickets and helping with coding tests. |
+| [🤖 **Manual Test Generator**](https://github.com/brunoengineer/ManualTestGenerator) | Playwright-based extractor that generates high-quality manual test cases in Markdown from live UIs. |
+| [🧪 **Web Reporter**](https://github.com/brunoengineer/web-reporter) | A Chrome extension to record a manual-test session locally and export a single self-contained .html file. |
+| [🧪 **HAR Filter**](https://brunoengineer.github.io/har-filter) | Filter, inspect, and export HAR network traces in your browser. No server. No uploads. Nothing leaves your machine. |
+| [🧠 **Decide Automate**](https://github.com/brunoengineer/decideAutomate) | React app to help QA decide whether to automate a test using a criteria-driven checklist. |
 
 ![Top Languages](https://vani-stats.vercel.app/api?username=brunoengineer&theme=dark&max_langs=4)
 
