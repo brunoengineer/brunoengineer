@@ -11,8 +11,6 @@ About me
 - 🌱 I’m learning: AI Agents for QA work | Advanced Level Test Automation Engineering v2.0 - ISTQB
 - 👯 I’m open to: collaboration on OSS, mentoring, contract work
 
-![Bruno's GitHub stats](https://streak-stats.demolab.com/?user=brunoengineer&theme=tokyonight)
-
 | Project | What it does |
 |---|---|
 | [📚 **QA Knowledge Repo**](https://github.com/brunoengineer/qaConcepts) | Curated QA concepts, clear explanations, and practical examples for QA engineers and developers. |
